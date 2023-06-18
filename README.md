@@ -33,30 +33,28 @@ pip install -r requirements.txt
 python main.py
 </pre>
 
-4. Usage
 
-`Once the project is up and running, follow these steps to perform sentiment analysis:`
+**Contributing**
 
-Open the user interface by running the main.py file.
-Enter the text you want to analyze in the provided input field.
-Click the "Analyze" button to initiate the sentiment analysis process.
-The result, indicating the sentiment (positive, negative, or neutral), will be displayed on the screen.
-Contributing
-Contributions to the Sentiment Analysis To Text project are welcome. If you want to contribute, please follow these steps:
+`Contributions to the Sentiment Analysis To Text project are welcome. If you want to contribute, please follow these steps:`
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make the necessary changes and commit them.
-Push your changes to your forked repository.
-Submit a pull request detailing the changes you made.
-License
-The Sentiment Analysis To Text project is licensed under the MIT License. See the LICENSE file for more information.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make the necessary changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request detailing the changes you made.
+6. 
+**License**
 
-Acknowledgments
-The project acknowledges the following resources:
+`The Sentiment Analysis To Text project is licensed under the MIT License. See the LICENSE file for more information.`
 
-NLTK: Natural Language Toolkit library for NLP processing.
-scikit-learn: Machine learning library for sentiment classification.
-Flask: Web framework for the user interface.
-Contact
-If you have any questions or suggestions regarding the Sentiment Analysis To Text project, feel free to contact the developer, Mdsomratakbor, via email at your-email@example.com.
+**Acknowledgments**
+
+`The project acknowledges the following resources:`
+
+1. NLTK: Natural Language Toolkit library for NLP processing.
+2. scikit-learn: Machine learning library for sentiment classification.
+3. Flask: Web framework for the user interface.
+
+**Contact**
+If you have any questions or suggestions regarding the Sentiment Analysis To Text project, feel free to contact the developer, Mdsomratakbor, via email at yoursomrat876@gmail.com.
