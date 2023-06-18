@@ -57,4 +57,4 @@ python main.py
 3. Flask: Web framework for the user interface.
 
 **Contact**
-If you have any questions or suggestions regarding the Sentiment Analysis To Text project, feel free to contact the developer, Mdsomratakbor, via email at yoursomrat876@gmail.com.
+If you have any questions or suggestions regarding the Sentiment Analysis To Text project, feel free to contact the developer, Mdsomratakbor, via email at somrat876@gmail.com.
