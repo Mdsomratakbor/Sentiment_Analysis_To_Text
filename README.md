@@ -1,10 +1,13 @@
 # Sentiment Analysis To Text
+
 `Sentiment Analysis To Text is a project developed by Mdsomratakbor. This project focuses on performing sentiment analysis on text data using various machine learning techniques.`
 
 **Overview**
+
 `Sentiment analysis is the process of determining the sentiment or emotion expressed in a piece of text. It involves analyzing text data to identify and classify the underlying sentiment as positive, negative, or neutral. This project provides a solution for sentiment analysis using machine learning algorithms.`
 
 **Features**
+
 `The Sentiment Analysis To Text project offers the following features:`
 
 - `Data Preprocessing: The project includes data preprocessing techniques to clean and prepare the text data for sentiment analysis.`
