@@ -53,8 +53,7 @@ python main.py
 `The project acknowledges the following resources:`
 
 1. [NLTK](https://www.nltk.org/):  Natural Language Toolkit library for NLP processing.
-2. scikit-learn: Machine learning library for sentiment classification.
-3. Flask: Web framework for the user interface.
+2. [scikit-learn](https://scikit-learn.org/): Machine learning library for sentiment classification.
 
 **Contact**
 If you have any questions or suggestions regarding the Sentiment Analysis To Text project, feel free to contact the developer, Mdsomratakbor, via email at somrat876@gmail.com.
