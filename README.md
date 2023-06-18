@@ -10,17 +10,21 @@
 
 `The Sentiment Analysis To Text project offers the following features:`
 
-- `Data Preprocessing: The project includes data preprocessing techniques to clean and prepare the text data for sentiment analysis.`
-Sentiment Classification: The project provides various machine learning algorithms for sentiment classification, allowing users to train and evaluate models.
-Model Evaluation: The project includes evaluation metrics to assess the performance of the sentiment analysis models.
-User Interface: The project offers a user-friendly interface where users can input text and receive sentiment analysis results.
-Installation
-To use the Sentiment Analysis To Text project, follow these steps:
+1. `Data Preprocessing: The project includes data preprocessing techniques to clean and prepare the text data for sentiment analysis.`
+2. `Sentiment Classification: The project provides various machine learning algorithms for sentiment classification, allowing users to train and evaluate models.`
+3. `Model Evaluation: The project includes evaluation metrics to assess the performance of the sentiment analysis models.`
 
-Clone the repository:
+**Installation**
+
+`To use the Sentiment Analysis To Text project, follow these steps:`
+
+1. Clone the repository:
+<pre>
 bash
 Copy code
 git clone https://github.com/Mdsomratakbor/Sentiment_Analysis_To_Text.git
+</pre>
+
 Install the required dependencies:
 bash
 Copy code
