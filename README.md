@@ -20,21 +20,22 @@
 
 1. Clone the repository:
 <pre>
-bash
-Copy code
 git clone https://github.com/Mdsomratakbor/Sentiment_Analysis_To_Text.git
 </pre>
 
-Install the required dependencies:
-bash
-Copy code
+2. Install the required dependencies:
+<pre>
 pip install -r requirements.txt
-Run the project:
-bash
-Copy code
+</pre>
+
+3. Run the project:
+<pre>
 python main.py
-Usage
-Once the project is up and running, follow these steps to perform sentiment analysis:
+</pre>
+
+4. Usage
+
+`Once the project is up and running, follow these steps to perform sentiment analysis:`
 
 Open the user interface by running the main.py file.
 Enter the text you want to analyze in the provided input field.
