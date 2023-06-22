@@ -32,7 +32,7 @@ def classify_emotion(request: EmotionRequest):
     
     emoji_icon = emotions_emoji_dict[prediction]
     predictionNew = str("{}:{}".format(prediction, emoji_icon))
-    probabilityNew= str("Confidence:{}".format(np.max(probability)))
+    probabilityNew= str("{}".format(np.max(probability)))
     # Create the response JSON
     response = {
         "prediction": predictionNew,
